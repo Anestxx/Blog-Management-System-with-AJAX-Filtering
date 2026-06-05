@@ -7,7 +7,7 @@
 $host = 'sql104.infinityfree.com';
 $dbname = 'if0_42106401_blogdb';
 $username = 'if0_42106401';
-$password = 'bYVwET$6ceBXcjg';
+$password = 'AxnftDhtf7pB';
 
 try {
     $pdo = new PDO("mysql:host={$host};dbname={$dbname};charset=utf8mb4", $username, $password);
