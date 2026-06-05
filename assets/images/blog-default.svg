@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#3366ff"/>
+      <stop offset="1" stop-color="#00b4d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#g)"/>
+  <circle cx="730" cy="80" r="110" fill="rgba(255,255,255,.18)"/>
+  <circle cx="120" cy="430" r="150" fill="rgba(255,255,255,.14)"/>
+  <rect x="120" y="130" width="660" height="260" rx="34" fill="rgba(255,255,255,.88)"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Arial" font-size="54" font-weight="700" fill="#172033">JobYaari Blog</text>
+  <text x="450" y="315" text-anchor="middle" font-family="Arial" font-size="24" fill="#687086">Career updates made simple</text>
+</svg>
