@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS jobyaari_blog_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE jobyaari_blog_db;
-
 DROP TABLE IF EXISTS blogs;
 DROP TABLE IF EXISTS admins;
 
